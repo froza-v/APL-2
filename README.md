@@ -1,2 +1,4 @@
 # APL-2
-this repo contains...
+
+this repo contains all the lab excerises.
+
